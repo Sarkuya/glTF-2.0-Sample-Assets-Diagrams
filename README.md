@@ -2,4 +2,4 @@
 Draw diagrams for glTF 2.0 sample assets.
 
 ## Sample Assets URL
-Visit [glTF Sample Assets](https://github.com/KhronosGroup/glTF-Sample-Assets) to view all glTF 2.0 sample assets.
+Visit [glTF Sample Assets](https://github.com/KhronosGroup/glTF-Sample-Assets){:target="_blank"} to view all glTF 2.0 sample assets.
